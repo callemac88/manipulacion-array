@@ -11,3 +11,5 @@ console.log("myProducts", myProducts);
 console.log("-".repeat(10));
 
 const product = products.find(item => item.id === '🍔');
+
+
